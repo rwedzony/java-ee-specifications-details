@@ -9,3 +9,4 @@ List of Java EE specififactions in chronological order:
 
 # J2EE 1.4 - 11.2003
 
+# Java EE 5 - 05.2006
