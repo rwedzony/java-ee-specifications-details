@@ -6,3 +6,6 @@ List of Java EE specififactions in chronological order:
 # J2EE 1.2 (Java 2 Platform, Enterprise Edition) - 12.1999
 
 # J2EE 1.3 - 09.2001
+
+# J2EE 1.4 - 11.2003
+
