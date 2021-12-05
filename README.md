@@ -12,3 +12,5 @@ List of Java EE specififactions in chronological order:
 # Java EE 5 - 11.05.2006
 
 # Java EE 6 - 10.12.2009
+
+# Java EE 7 - 28.05.2013
