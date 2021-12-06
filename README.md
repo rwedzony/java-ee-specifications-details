@@ -20,3 +20,5 @@ List of Java EE specififactions in chronological order:
 # Jakarta EE 8 - 10.10.2019
 
 # Jakarta EE 9 - 22.11.2020
+
+# Jakarta EE 9.1 - 25.05.2021
